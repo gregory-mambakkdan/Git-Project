@@ -1,2 +1,2 @@
 # Git-Project
-Just Trying To Understand Git And Git Hub in VS Code
+Just Trying To Understand Git And Git Hub in VS CODE
